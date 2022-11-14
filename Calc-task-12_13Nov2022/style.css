@@ -1,0 +1,32 @@
+.main-container {
+    height:350px;
+    border-radius: 5px;
+    width: 251px;
+    margin: 100px auto;
+    
+}
+
+input {
+    margin: 10px 0px;
+    border-radius: 5px;
+    width: 100%;
+}
+.div-btn {
+    margin: 0px 20px;
+}
+
+.number-container {
+    max-width: 75px !important;
+}
+
+.calc-btn {
+    margin:5px;
+    width:40px;
+    height: 40px;
+}
+.equal-btn {
+    width:40px;
+    height: 40px;
+    margin:5px;
+}
+
