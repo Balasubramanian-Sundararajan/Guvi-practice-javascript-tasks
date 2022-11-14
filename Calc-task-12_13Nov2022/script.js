@@ -154,7 +154,7 @@ column2.append(divisionbutton);
 const equalbtn = document.createElement("button");
 equalbtn.setAttribute("type", "button");
 equalbtn.setAttribute("id", "equalbtn");
-equalbtn.setAttribute("class", "btn btn-success equal-btn");
+equalbtn.setAttribute("class", "btn btn-success calc-btn");
 equalbtn.setAttribute("onclick", "equal()");
 equalbtn.innerHTML = "=";
 column2.append(equalbtn);
